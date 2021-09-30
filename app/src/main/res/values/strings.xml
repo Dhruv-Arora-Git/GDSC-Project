@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcome_to_tic_tac_toe">Welcome to Tic-Tac-Toe</string>
+    <string name="tic_tac_toe_grid">tic_tac_toe_grid</string>
+    <string name="c1">c1</string>
+    <string name="c3">c3</string>
+    <string name="c2">c2</string>
+    <string name="c4">c4</string>
+    <string name="c5">c5</string>
+    <string name="c6">c6</string>
+    <string name="c7">c7</string>
+    <string name="c8">c8</string>
+    <string name="c9">c9</string>
+</resources>
